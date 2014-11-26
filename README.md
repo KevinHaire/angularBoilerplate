@@ -1,0 +1,4 @@
+angularBoilerplate
+==================
+
+starter angular project
